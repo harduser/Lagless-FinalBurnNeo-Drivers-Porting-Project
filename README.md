@@ -2,11 +2,11 @@
 # This is a Shmupmame's lagless drivers porting project！
 As same as "Lagless-MAME-Drivers-Porting-Project",This project will port the Shmupmame's drivers(use memcpy to copy spriteram to mainram to remove the lag of sprites) to FinalBurn emulators,such as FBA and FBN
 # WIP：
-cave's lagless driver in C++ to FBN  
-psikyo's lagless driver in C++ to FBN  
-gp9001's lagless driver in C++ to FBN  
+Cave's lagless driver in C++ to FBN  
+Psikyo's lagless driver in C++ to FBN  
+Gp9001's lagless driver in C++ to FBN  
 # License:
-The whole project is as same as FBN project:
+The whole project's license is as same as FBN project:
 You may freely use, modify, and distribute both the FB Neo source code and binary, however the following restrictions apply to the FB Neo original material (see below for a list of libraries with differing licenses, please consult their respective documentation for more information):
 
  - You may not sell, lease, rent or otherwise seek to gain monetary profit from FB Neo;
